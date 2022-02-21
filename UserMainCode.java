@@ -21,21 +21,21 @@ public class UserMainCode {
 		              System.out.println("Valid");
 
 		            } else{
-		              System.out.println("Not Valid");
+		              System.out.println("Invalid");
 		            }
 		          } else{
-		            System.out.println("Not Valid");
+		            System.out.println("Invalid");
 		          }
 		        }
 		         else{
-		            System.out.println("Not Valid");
+		            System.out.println("Invalid");
 		          }
 		      } else{
-		        System.out.println("Not Valid");
+		        System.out.println("Invalid");
 		      }
 
 		    } else{
-		      System.out.println("Not Valid");
+		      System.out.println("Invalid");
 		    }
 		
 	}
